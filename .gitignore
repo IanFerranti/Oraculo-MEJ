@@ -3,3 +3,6 @@
 
 # Ambiente virtual do Python
 .venv/
+
+# banco de dado vetorial
+chroma_db/
