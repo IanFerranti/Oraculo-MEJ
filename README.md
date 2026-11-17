@@ -4,9 +4,8 @@
 
 O **Oráculo MEJ** é uma aplicação desenvolvida para facilitar o acesso e a consulta às informações presentes nos documentos oficiais da Brasil Júnior. Utilizando a arquitetura **Retrieval-Augmented Generation (RAG)**, o sistema combina busca semântica em documentos com modelos de linguagem generativa, permitindo respostas contextualizadas e fundamentadas no conteúdo disponibilizado.
 
-```text
 [Acesse o projeto](https://oraculo-mej.streamlit.app)
-```
+
 
 ## 🚀 Tecnologias Utilizadas
 
