@@ -1,0 +1,5 @@
+# Arquivo de variáveis de ambiente
+.env
+
+# Ambiente virtual do Python
+.venv/
